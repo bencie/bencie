@@ -1,4 +1,4 @@
-### Hi there 👋
+![github-contribution-grid-snake](https://github.com/user-attachments/assets/40f40585-ab23-4f22-8f49-ef5630842ad8)
 
 <!--
 **bencie/bencie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
